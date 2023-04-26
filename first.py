@@ -1,1 +1,2 @@
-print('hello world from file')
+msg = 'hello world from file'
+print(msg)
